@@ -46,15 +46,15 @@
         width: 100%;
     }
 
+    .post{
+        margin-bottom: 87px;
+    }
+
     .barraStories{
         border: none;
         border-radius: 0px;
         margin-bottom: 0px;
         width: 100%;
-    }
-
-    .post{
-        margin-bottom: 87px;
     }
 
     .seta{
