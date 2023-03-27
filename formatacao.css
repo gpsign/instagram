@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.pesquisar{
+    font-weight: 400;
+    font-size: 12px;
+    color: #979797;
+}
+
+.centro{
+    text-align: center;
+}
+
+.pequena{
+    font-size: 11px;
+    line-height: 13px;
+}
+
+.media{
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.grande{
+    font-size: 14px;
+    line-height: 16.41px;
+}
+
+.negrito{
+    font-weight: 500;
+}
+
+.normal{
+    font-weight: 400;
+}
+
+.fina{
+    font-weight: 300;
+}
+.cinzaEscuro{
+    color: #8E8E8E;
+}
+
+.cinzaClaro{
+    color: #C7C7C7;
+}
+
+.azul{
+    color: #139EF2;
+}
+
+.preta{
+    color: #262626;
+}
+
+.copyright{
+    margin-top: 18px;
+}
