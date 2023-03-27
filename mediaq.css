@@ -42,18 +42,22 @@
         width: 100%;
     }
 
+    .scroll, .post, .postTopo, .postRodape{
+        width: 100%;
+    }
+
     .barraStories{
         border: none;
         border-radius: 0px;
-        filter:none;
         margin-bottom: 0px;
+        width: 100%;
+    }
+
+    .post{
+        margin-bottom: 87px;
     }
 
     .seta{
         display: none;
-    }
-
-    .post img{
-        width: 100%;
     }
 }
